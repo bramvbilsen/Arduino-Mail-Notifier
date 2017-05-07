@@ -1,5 +1,5 @@
 # Arduino-Mail-Notifier
-This project includes code to pull data from a Gmail account and send it to an Arduino
+This project includes code to pull data from a Gmail account and send it to an Arduino. You can see this project in action on this YouTube video: https://www.youtube.com/watch?v=W8WCaWVmYQk
 
 ## Prerequisites
 - You need to enable your Google account for the Gmail API and place the JSON file with your credentials in the root of your project folder, more info can be found under "Step 1" here: https://developers.google.com/gmail/api/quickstart/python
